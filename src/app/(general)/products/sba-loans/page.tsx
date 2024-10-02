@@ -3,9 +3,9 @@ import React from "react";
 import SBALoanForm from "./SBALoanForm";
 
 export const metadata: Metadata = {
-  title: "SBA Loans - BeeHaiv Finance Tech",
+  title: "SBA Loans - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function SbaLoans() {
@@ -21,7 +21,7 @@ export default function SbaLoans() {
           </p>
 
           <p className="text-[11px] md:text-xs">
-            † BeeHaiv does not issue loans or make credit decisions in
+            † HiveSparkle does not issue loans or make credit decisions in
             connection with loans. All loans are subject to credit approval.
             Your terms may vary. Loans are provided by a network of SBA lenders.
           </p>

@@ -17,7 +17,7 @@ export default function Tools() {
           <strong className="font-bold text-4xl">
             A new way to run your business
           </strong>
-          <p>BeeHaiv is a financial technology company, not a bank</p>
+          <p>HiveSparkle is a financial technology company, not a bank</p>
         </div>
         <div className="space-y-4">
           <strong className="text-base font-bold">Up to 5.02% APY</strong>
@@ -63,7 +63,7 @@ export default function Tools() {
           <strong className="font-bold text-4xl">
             Powerful tools to help your business grow
           </strong>
-          <p>BeeHaiv is a financial technology company, not a bank</p>
+          <p>HiveSparkle is a financial technology company, not a bank</p>
           <Separator className="w-8" />
         </div>
 
@@ -77,7 +77,7 @@ export default function Tools() {
               Transfer between your accounts at the same bank instantly
             </p>
             <span className="block text-[11px]">
-              BeeHaiv Technologies is a financial technology company, not a bank
+              HiveSparkle Technologies is a financial technology company, not a bank
               or FDIC-insured depository institution. Banking services are
               provided by FirstBank, a Tennessee corporation, and by Grasshopper
               Bank, N.A. and Third Coast Bank SSB; Members FDIC. The FDIC's

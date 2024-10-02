@@ -6,9 +6,9 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Our Blog - BeeHaiv Finance Tech",
+  title: "Our Blog - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function CustomerList() {
@@ -27,11 +27,10 @@ export default function CustomerList() {
           {posts.map((post, index) => (
             <article
               key={index}
-              className={`${
-                index === 0
+              className={`${index === 0
                   ? "lg:col-span-2 md:row-span-2 lg:row-span-3 flex-col space-y-4"
                   : "space-x-4 flex-row "
-              } flex overflow-hidden`}
+                } flex overflow-hidden`}
             >
               <Link
                 href={`/resources/customer-stories/${post.slug}`}

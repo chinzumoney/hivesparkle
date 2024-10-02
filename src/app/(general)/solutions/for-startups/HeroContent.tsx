@@ -12,14 +12,14 @@ export default function ForStartupHeroContent() {
         Banking that extends your runway
       </h2>
       <p className="text-sm md:text-sm">
-        Get a checking account from BeeHaiv's partner banks that actually earns
+        Get a checking account from HiveSparkle's partner banks that actually earns
         interest.{" "}
       </p>
 
       <GetStartedForm />
 
       <p className="text-[11px] md:text-xs">
-        BeeHaiv Technologies is a financial technology company, not a bank or
+        HiveSparkle Technologies is a financial technology company, not a bank or
         FDIC-insured depository institution. Banking services are provided by
         FirstBank, a Tennessee corporation, and by Grasshopper Bank, N.A. and
         Third Coast Bank SSB; Members FDIC. The FDIC's deposit insurance

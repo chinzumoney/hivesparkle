@@ -6,9 +6,9 @@ import { Button } from '../ui/button';
 import { useRouter } from 'next/navigation';
 
 /**
- * The `Logo` function returns a JSX element representing the logo of a website called BeeHaiv.
+ * The `Logo` function returns a JSX element representing the logo of a website called HiveSparkle.
  * @returns The `Logo` component is being returned, which consists of a link (`<Link>`) containing an
- * image (`<Image>`) and a strong element (`<strong>`) with the text "BeeHaiv".
+ * image (`<Image>`) and a strong element (`<strong>`) with the text "HiveSparkle".
  */
 export default function Logo() {
   const router = useRouter();
@@ -22,12 +22,12 @@ export default function Logo() {
       <Image
         className="h-12 w-12 block"
         src="/logo.svg"
-        alt="beehaiv logo"
+        alt="hivesparkle logo"
         width={102}
         height={24}
       />
       <strong className="notranslate hidden lg:flex text-xl font-bold w-fit">
-        BeeHaiv
+        HiveSparkle
       </strong>
     </Button>
   );

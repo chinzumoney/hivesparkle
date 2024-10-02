@@ -6,9 +6,9 @@ import Tools from "./Tools";
 import BusinessLoansHeroContent from "./HeroContent";
 
 export const metadata: Metadata = {
-  title: "Business Loans - BeeHaiv Finance Tech",
+  title: "Business Loans - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function BusinessLoans() {

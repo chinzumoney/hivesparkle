@@ -5,9 +5,9 @@ import Image from "next/image";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "User Blocked - BeeHaiv Finance Tech",
+  title: "User Blocked - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function Blocked() {

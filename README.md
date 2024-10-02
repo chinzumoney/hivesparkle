@@ -60,28 +60,28 @@ Ensure you have the following installed:
    **Frontend**
 
    ```bash
-   git clone https://github.com/david-jerry/beehaiv.git
-   cd beehaiv
+   git clone https://github.com/david-jerry/hivesparkle.git
+   cd hivesparkle
    ```
 
    **Backend**
 
    ```bash
-   git clone https://github.com/david-jerry/beehaiv-be.git
-   cd beehaiv-be
+   git clone https://github.com/david-jerry/hivesparkle-be.git
+   cd hivesparkle-be
    ```
 
 2. **Install Frontend Dependencies**:
 
    ```bash
-   cd beehaiv
+   cd hivesparkle
    yarn install  # or npm install
    ```
 
 3. **Install Backend Dependencies**:
 
    ```bash
-   cd beehaiv-be
+   cd hivesparkle-be
    pip install -r requirements.txt
    ```
 
@@ -101,14 +101,14 @@ Ensure you have the following installed:
    - **Frontend**:
 
      ```bash
-     cd beehaiv
+     cd hivesparkle
      yarn dev  # or npm run dev
      ```
 
    - **Backend**:
 
      ```bash
-     cd beehaiv-be
+     cd hivesparkle-be
      ./run_server.sh
      ```
 
@@ -181,4 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Follow this [tutorial](https://www.pedroalonso.net/blog/deploying-nextjs-vps-using-dokku) to deploy online:
 ---
 
-For further enquiries and collaborations please visit [My Website](https://jeremiahedavid.online) or [Bytestream's Official Website](https://bytestreaminnovators.ltd).
+For further enquiries and collaborations please visit [My Website](https://hivesparkle.online) or [Bytestream's Official Website](https://bytestreaminnovators.ltd).

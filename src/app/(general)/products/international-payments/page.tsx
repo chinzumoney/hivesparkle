@@ -5,9 +5,9 @@ import { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "International Payouts - BeeHaiv Finance Tech",
+  title: "International Payouts - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 export default function InternationalPayouts() {
   return (

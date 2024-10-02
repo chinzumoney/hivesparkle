@@ -19,7 +19,7 @@ export default function HeroContent() {
       <GetStartedForm />
 
       <p className="text-[11px] md:text-xs">
-        BeeHaiv Technologies is a financial technology company, not a bank or
+        HiveSparkle Technologies is a financial technology company, not a bank or
         FDIC-insured depository institution. Banking services are provided by
         FirstBank, a Tennessee corporation, and by Grasshopper Bank, N.A. and
         Third Coast Bank SSB; Members FDIC. The FDIC's deposit insurance

@@ -9,7 +9,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Basic Information - Onboarding",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function Basic() {
@@ -35,7 +35,7 @@ const Footer = () => {
       <p className="text-xs text-gray-400">
         By clicking “Sign up with Google” or "Sign up" above, you certify that
         you are 18 years of age or older, read and agree to be bound by
-        BeeHaiv's Terms of Service and the linked terms of Third Coast Bank SSB;
+        HiveSparkle's Terms of Service and the linked terms of Third Coast Bank SSB;
         Member FDIC and Grasshopper Bank N.A.; Member FDIC and FirstBank, a
         Tennessee Corporation; Member FDIC, and acknowledge the Privacy Policy.
       </p>

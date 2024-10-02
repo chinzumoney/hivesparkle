@@ -15,7 +15,7 @@ export default function HeroContent() {
       <GetStartedForm />
 
       <p className="text-[11px] md:text-xs">
-        BeeHaiv is a financial technology company, not a bank. The BeeHaiv
+        HiveSparkle is a financial technology company, not a bank. The HiveSparkle
         Commercial Card is issued by Community Federal Savings Bank, Member
         FDIC, pursuant to a license from VISA U.S.A. Inc. Payment services are
         provided through Airwallex US, LLC{" "}

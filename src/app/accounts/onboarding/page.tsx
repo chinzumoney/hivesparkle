@@ -9,9 +9,9 @@ import GetStarted from "./GetStarted";
 import ProtectedRoute from "@/components/ProtectedRoute";
 
 export const metadata: Metadata = {
-  title: "Welcome to BeeHaiv - BeeHaiv Finance Tech",
+  title: "Welcome to HiveSparkle - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function Welcome() {
@@ -20,7 +20,7 @@ export default function Welcome() {
       <section className="w-screen h-screen flex flex-col items-center justify-center">
         <div className="container flex flex-col h-full items-center justify-center">
           <AccountsForm
-            title={"Welcome to BeeHaiv"}
+            title={"Welcome to HiveSparkle"}
             description={<Description />}
             form={<GetStarted />}
             footer={<Footer />}

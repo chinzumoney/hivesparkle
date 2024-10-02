@@ -6,9 +6,9 @@ import Testimonial from "@/components/commons/Testimonial";
 import Tools from "./Tools";
 
 export const metadata: Metadata = {
-  title: "Business Checking - BeeHaiv Finance Tech",
+  title: "Business Checking - HiveSparkle Finance Tech",
   description:
-    "BeeHaiv is a financial technology for businesses with no commitment and zero paper-work.",
+    "HiveSparkle is a financial technology for businesses with no commitment and zero paper-work.",
 };
 
 export default function BusinessChecking() {
